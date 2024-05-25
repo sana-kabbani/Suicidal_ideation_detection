@@ -1,6 +1,8 @@
 # Suicidal_ideation_detection
-### Suicidal class:  scraped from subReddits r/SuicideWatch and r/depression
- ### Healthy class :is from multiple subreddits
+### Suicidal class: 
+scraped from subReddits r/SuicideWatch and r/depression
+ ### Healthy class
+ is from multiple subreddits
 ### Naive Bayes
 Score : 0.9
 ### Random Forest 
