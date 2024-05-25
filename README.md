@@ -7,7 +7,7 @@ scraped from subReddits r/SuicideWatch and r/depression
 Score : 0.9
 ### Random Forest 
 Score 0.78
-###Decision Tree
+### Decision Tree
 Score 0.75
 ### Gradient Boosting 
 Score 0.75
